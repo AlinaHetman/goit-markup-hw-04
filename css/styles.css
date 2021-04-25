@@ -400,7 +400,7 @@ img {
     fill: var(--alt-tittle-cl);
 }
 .client-icon-link:hover .client-icon-svg,
-.client-icon-link:focus .client-icon.svg {
+.client-icon-link:focus .client-icon-svg {
     fill: var(--tittle-cl);
 }
 .client-icon-link:hover,
@@ -511,9 +511,4 @@ img {
 .tittle-box {
     padding-top: 200px;
     padding-bottom: 200px;
-}
-.hero {
-    background-image: linear-gradient(to top, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(/images/bgheader.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
 }
